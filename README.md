@@ -1,4 +1,7 @@
 clones
 ======
 
-project: HTML5 real-time stategy game with using newest technologies - gfx: canvas or svg, net: sockets, core: workers
+project: HTML5 real-time stategy game with using newest technologies:
+* Gfx: canvas or svg
+* Net: sockets
+* Core: workers
